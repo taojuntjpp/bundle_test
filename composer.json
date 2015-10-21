@@ -1,0 +1,10 @@
+{
+    "name": "taojun/bundle_test",
+    "authors": [
+        {
+            "name": "taojun",
+            "email": "taojuntjpp@126.com"
+        }
+    ],
+    "require": {}
+}
